@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "BluesoftBank",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    }
+  ],
+  "generated": "2024-03-02T20:58:39.688238Z",
+  "generator": "pub",
+  "generatorVersion": "3.3.0"
+}
